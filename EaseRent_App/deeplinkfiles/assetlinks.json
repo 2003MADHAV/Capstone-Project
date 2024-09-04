@@ -1,0 +1,26 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.broker.vrs",
+            "sha256_cert_fingerprints": [
+                "08:e1:3b:83:ab:d7:77:6f:40:37:0f:73:49:52:55:b4:2c:3f:f9:8c:18:25:0d:d4:db:0c:34:f6:dd:2b:54:67"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.broker.vrs",
+            "sha256_cert_fingerprints": [
+                "08:e1:3b:83:ab:d7:77:6f:40:37:0f:73:49:52:55:b4:2c:3f:f9:8c:18:25:0d:d4:db:0c:34:f6:dd:2b:54:67"
+            ]
+        }
+    }
+]

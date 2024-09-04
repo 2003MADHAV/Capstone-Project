@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1018291744415",
+    "project_id": "erent-d16b7",
+    "storage_bucket": "erent-d16b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018291744415:android:7d942c964221474db83caa",
+        "android_client_info": {
+          "package_name": "com.broker.vrss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018291744415-rbfn7equke03c042eg05rqk9214h859j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.broker.vrss",
+            "certificate_hash": "c64df1c3de9c2f007ebd85ec18c6ba0e421582e4"
+          }
+        },
+        {
+          "client_id": "1018291744415-a03h1s16nkofg3ebserqu1l45a9n4dl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1FjLX5yc2Ls2UBgAvckxk5Umc-btXz8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018291744415-a03h1s16nkofg3ebserqu1l45a9n4dl5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1018291744415-6erk38mrplkmek7nb8p8vle9k7sfs0os.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.broker.vrs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
